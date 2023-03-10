@@ -1,3 +1,4 @@
+![hbnb logo](img/65f4a1dd9c51265f49d0.png)
 # AirBnB_clone
 This is the first step towards building your first full web application in alx: the AirBnB clone
 
