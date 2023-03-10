@@ -18,3 +18,12 @@ The console works both in interactive mode and non-interactive mode, much like a
 | Destroy an object | `(hbnb) destroy <class> <id> or (hbnb) <class>.destroy(<id>)` |
 | Show all objects, or all instances of a class | `(hbnb) all or (hbnb) all <class>` | 
 | Update an attribute of an object | `(hbnb) update <class> <id> <attribute name> "<attribute value>" or (hbnb) <class>.update(<id>, <attribute name>, "<attribute value>")` |
+
+Non-interactive mode example
+
+`$ echo "help" | ./console.py
+(hbnb)
+
+Documented commands (type help <topic>):
+========================================
+EOF  all  count  create  destroy  help  quit  show  update`
