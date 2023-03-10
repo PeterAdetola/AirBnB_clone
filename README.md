@@ -9,4 +9,5 @@ This team project is part of the ALX School Full-Stack Software Engineer program
 The console works both in interactive mode and non-interactive mode, much like a Unix shell. It prints a prompt (hbnb) and waits for the user for input.
 
 | Command | Example |
+|---------|---------|
 | Run the console | `./console.py` |
