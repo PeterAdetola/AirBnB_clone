@@ -29,3 +29,10 @@ Documented commands (type help <topic>):
 ========================================
 EOF  all  count  create  destroy  help  quit  show  update
 ```
+##Models
+The folder models contains all the classes used in this project.
+
+| File | Description | Attributes |
+|------|-------------|------------|
+| base_model.py | BaseModel class for all the other classes | id, created_at, updated_at |
+
