@@ -11,5 +11,4 @@ The console works both in interactive mode and non-interactive mode, much like a
 | Command | Example |
 |---------|---------|
 | Run the console | `./console.py` |
-|---------|---------|
 | Quit the console | `(hbnb) quit` |
